@@ -6,6 +6,8 @@
 
 I have tried to form the clusters using both Heirarchical and KMeans clustering.
 
+The data and description is taken from Kaggle - https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
+
 ### Further study:
 - Countries falling in same clusters can be studied together to understand the relation between them in terms of all the features and then future social policies could be made accordingly to improve upon the factors.
 - Countries with lower scores can study the factors from the cluster contraining countries with higher scores to gain insights about their current policies
