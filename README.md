@@ -12,4 +12,7 @@ The data and description is taken from Kaggle - https://www.kaggle.com/ajaypalsi
 - Countries falling in same clusters can be studied together to understand the relation between them in terms of all the features and then future social policies could be made accordingly to improve upon the factors.
 - Countries with lower scores can study the factors from the cluster contraining countries with higher scores to gain insights about their current policies
 
+#### Note:
+The four images attached are the images at different angles of the 3d KMeans clusters formed. For some reason, the 3-d cluster plot is not appearing in the python file. Neverthless, I have attached the images separately to view 3 clusters formed using Kmeans.
+
 
