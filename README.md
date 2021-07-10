@@ -2,9 +2,9 @@
 
 - The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country.
 
-- Based on the World happiness report of 2021, clusters are being created depending upon the scores these countries got for various parameters. The purpose is to undestand which countries are most similar when seen in terms of these parameters.
+- Based on the World happiness report of 2021, clusters are being created depending upon the scores these countries got for various parameters. The purpose is to understand which countries are most similar when seen in terms of these parameters.
 
-I have tried to form the clusters using both Heirarchical and KMeans clustering.
+I have tried to form the clusters using both Hierarchical and KMeans clustering.
 
 The data and description is taken from Kaggle - https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
 
